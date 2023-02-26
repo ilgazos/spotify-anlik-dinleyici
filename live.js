@@ -13,8 +13,8 @@ setTimeout(() => {
     const spans = document.querySelectorAll('div[data-testid="bar-animation"] span');
     // tüm spanlara ait gNTOnu sınıfını kaldır ve lcwBDv sınıfını ekle
     spans.forEach(span => {
-        span.classList.remove('gNTOnu');
-        span.classList.add('lcwBDv');
+        span.classList.remove('knryRN');
+        span.classList.add('hlyiTU');
     });
 
     // live-listeners adlı veri test kimliği olan h1'i seç
